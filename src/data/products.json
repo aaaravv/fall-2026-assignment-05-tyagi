@@ -61,7 +61,7 @@
     "price": 418.4,
     "category": "Widebody",
     "description": "Accommodates 410 to 467 passengers with a maximum flight range of 14,310 kilometers.",
-    "imageUrl": "./images/product8.jpg"
+    "imageUrl": "./images/product8.jpeg"
   },
   {
     "id": 9,
@@ -116,7 +116,7 @@
     "name": "General Dynamics F-16 Fighting Falcon",
     "price": 63.0,
     "category": "Regional Jet",
-    "description": "Single-engine multirole fighter jet (categorized for store compliance). Accommodates 1 pilot with a maximum flight range of 4,220 kilometers.",
+    "description": "Single-engine multirole fighter jet. Accommodates 1 pilot with a maximum flight range of 4,220 kilometers.",
     "imageUrl": "./images/product15.jpeg"
   }
 ]

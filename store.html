@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./src/styles/main.css">
+    </head>
+
+    <body>
+        <header class="site-header">
+            <h1>
+                <a href="./index.html" class="logo">Plain Plane</a>
+            </h1>
+
+            <div class="nav-bar">
+                <a href="./index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./store.html">Store</a>
+            </div>
+        </header>
+
+        <main class="store-main">
+            <h1 class="store-title">Our Aircraft</h1>
+            <section id="products-grid" class="products-grid" aria-label="Aircraft catalog" aria-live="polite"></section>
+            <nav class="pagination" aria-label="Product pages">
+                <button id="previous-page" type="button" disabled>Previous</button>
+                <p id="page-indicator" aria-live="polite">Page 1 of 3</p>
+                <button id="next-page" type="button">Next</button>
+            </nav>
+        </main>
+
+        <footer class="site-footer">
+            <p class="site-p">Open 24/7</p>
+        </footer>
+
+        <script type="module" src="./src/main.js"></script>
+    </body>
+</html>
