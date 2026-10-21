@@ -115,7 +115,7 @@
     "id": 15,
     "name": "General Dynamics F-16 Fighting Falcon",
     "price": 63.0,
-    "category": "Regional Jet",
+    "category": "Multirole Fighter Jet",
     "description": "Single-engine multirole fighter jet. Accommodates 1 pilot with a maximum flight range of 4,220 kilometers.",
     "imageUrl": "./images/product15.jpeg"
   }
