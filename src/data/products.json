@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Airbus A320neo",
+    "price": 110.6,
+    "category": "Narrowbody",
+    "description": "Single aisle aircraft. Accommodates 150 to 194 passengers with a maximum flight range of 6,940 kilometers.",
+    "imageUrl": "./images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Boeing 737 MAX 8",
+    "price": 121.6,
+    "category": "Narrowbody",
+    "description": "Single aisle aircraft. Accommodates 162 to 210 passengers with a maximum flight range of 6,570 kilometers.",
+    "imageUrl": "./images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Airbus A330-900neo",
+    "price": 296.4,
+    "category": "Widebody",
+    "description": "Accommodates 260 to 300 passengers with a maximum flight range of 13,334 kilometers.",
+    "imageUrl": "./images/product3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Boeing 787-9 Dreamliner",
+    "price": 292.5,
+    "category": "Widebody",
+    "description": "Accommodates 250 to 290 passengers with a maximum flight range of 15,740 kilometers.",
+    "imageUrl": "./images/product4.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Airbus A350-900",
+    "price": 317.4,
+    "category": "Widebody",
+    "description": "Accommodates 300 to 350 passengers with a maximum flight range of 15,750 kilometers.",
+    "imageUrl": "./images/product5.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Boeing 777-9",
+    "price": 442.2,
+    "category": "Widebody",
+    "description": "Accommodates 375 to 450 passengers with a maximum flight range of 15,000 kilometers.",
+    "imageUrl": "./images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Airbus A380",
+    "price": 445.6,
+    "category": "Widebody",
+    "description": "Accommodates 450 to 853 passengers with a maximum flight range of 14,800 kilometers.",
+    "imageUrl": "./images/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Boeing 747-8 Intercontinental",
+    "price": 418.4,
+    "category": "Widebody",
+    "description": "Accommodates 410 to 467 passengers with a maximum flight range of 14,310 kilometers.",
+    "imageUrl": "./images/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Embraer ERJ 145",
+    "price": 27.0,
+    "category": "Regional Jet",
+    "description": "Accommodates 50 passengers with a maximum flight range of 2,870 kilometers.",
+    "imageUrl": "./images/product9.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Bombardier CRJ200",
+    "price": 30.0,
+    "category": "Regional Jet",
+    "description": "Accommodates 50 passengers with a maximum flight range of 3,045 kilometers.",
+    "imageUrl": "./images/product10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Aérospatiale/BAC Concorde",
+    "price": 46.0,
+    "category": "Narrowbody",
+    "description": "Single aisle supersonic aircraft. Accommodates 92 to 128 passengers with a maximum flight range of 7,250 kilometers.",
+    "imageUrl": "./images/product11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Antonov An-225 Mriya",
+    "price": 300.0,
+    "category": "Widebody",
+    "description": "Heavy strategic cargo transport aircraft. Accommodates up to 80 crew/staff with a maximum flight range of 15,400 kilometers.",
+    "imageUrl": "./images/product12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Airbus BelugaXL",
+    "price": 250.0,
+    "category": "Widebody",
+    "description": "Oversized outsize cargo transport aircraft. Accommodates flight crew with a maximum flight range of 4,000 kilometers.",
+    "imageUrl": "./images/product13.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Boeing 747 Large Cargo Freighter (Dreamlifter)",
+    "price": 250.0,
+    "category": "Widebody",
+    "description": "Modified widebody cargo transport aircraft. Accommodates flight crew with a maximum flight range of 7,800 kilometers.",
+    "imageUrl": "./images/product14.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "General Dynamics F-16 Fighting Falcon",
+    "price": 63.0,
+    "category": "Regional Jet",
+    "description": "Single-engine multirole fighter jet (categorized for store compliance). Accommodates 1 pilot with a maximum flight range of 4,220 kilometers.",
+    "imageUrl": "./images/product15.jpeg"
+  }
+]

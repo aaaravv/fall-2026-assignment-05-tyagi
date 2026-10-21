@@ -1,1 +1,67 @@
+.site-header {
+    display: flex;
+    align-items: center;            
+    padding: 1.5rem 3rem;
+    background-color: #007bff;      
+}
+
+.logo{
+    text-decoration: none;
+    color: #4a154b; 
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.nav-bar {
+    background-color: #007bff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 50px;
+    display: inline-flex;
+    gap: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-bar a {
+    color: #ffffff;                 
+    text-decoration: none;  
+    font-weight: 500;
+    font-family: sans-serif;
+    transition: opacity 0.2s ease;
+}
+
+
+.nav-bar a:hover { 
+    opacity: 0.8;                   
+    text-decoration: underline; 
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner {
+    background-image: url('/images/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 2rem;
+}
+
+.hero-btn{
+    display: inline-block;
+    background-color: #ffffff;
+    color: #007bff;
+    padding: 0.75rem 1.5rem;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    transition: background-color 0.2s ease;
+}
 
